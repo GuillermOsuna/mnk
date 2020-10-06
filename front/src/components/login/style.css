@@ -1,0 +1,23 @@
+.container-background {
+    padding-top: 17vh;
+}
+.container-background .container-login {
+    background-color: #1e232d;
+    border-radius: 8px;
+    padding: 20px 80px 30px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+.container-background .footer {
+    color: #FFF;
+    text-align: center;
+    padding: 24px 32px;
+} 
+.container-login .btn-primary {
+    background-color:#d71b12ad !important;
+    border-color: transparent !important;
+}
+.container-login .btn-primary:hover {
+    background-color:#d71b12 !important;
+    border-color: #d71b12 !important;
+}
