@@ -129,7 +129,7 @@
     "typescript": "^3.9.7"
   },
   "reactGenerate": {
-    "srcPath": "kraken/front/src/components",
+    "srcPath": "mnk/front/src/components",
     "testFileExtension": "test"
   }
 }

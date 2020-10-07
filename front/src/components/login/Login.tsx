@@ -145,19 +145,11 @@ class Login extends React.Component<Props> {
                                     Aceptar
                                 </Button>
                             </div>
-                            {/* <Col sm="12">
-                                <Typography gutterBottom variant="subtitle2" className={`${classes.subtitle} text-center`}>
-                                    ¿Olvidaste tu contraseña?
-                                </Typography>
-                            </Col> */}
                         </Row>
                     </div>
                 </Form>
                 <div className="footer">
                     <Col sm="12" className={classes.sidebarBottomLogo}>
-                        {/* <Typography>
-                            <a href="https://coppel.com" target="_blank"> COPPEL.COM</a>
-                        </Typography> */}
                         <Typography>
                             Powered with <i className="uil uil-heart"></i> by MNK
                         </Typography>
